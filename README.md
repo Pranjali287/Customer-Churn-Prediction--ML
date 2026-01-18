@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔮 Customer Churn Prediction System
 
 ## 📌 Project Overview
@@ -83,3 +84,7 @@ The app will open in your browser at `http://localhost:8501`.
 
 ---
 *Built with ❤️ using Python & Streamlit*
+=======
+# Customer-Churn-Prediction--ML
+Built an end-to-end Customer Churn Prediction system using Machine Learning, covering data preprocessing, EDA, feature engineering, model evaluation, and deployment via a Streamlit web application.
+>>>>>>> 5186346e6518aa9feee62f139c6e50ed15f1a7e7
